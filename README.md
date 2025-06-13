@@ -3,3 +3,4 @@
 The Game.zip file includes the index.html
 Please help me make this game something good
 Thanks guys
+You can contribute anyway possible!
